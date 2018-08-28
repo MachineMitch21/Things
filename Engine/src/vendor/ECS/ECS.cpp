@@ -1,0 +1,3 @@
+#include "ECS.h"
+
+ECS_TYPE_IMPLEMENTATION;

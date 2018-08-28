@@ -1,0 +1,3 @@
+/home/mitch/Documents/AntisocialEngine/Sample/build/CMakeFiles/rebuild_cache.dir
+/home/mitch/Documents/AntisocialEngine/Sample/build/CMakeFiles/antisocial_test.dir
+/home/mitch/Documents/AntisocialEngine/Sample/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -std=c++14 -O3 -DNDEBUG   CMakeFiles/antisocial_test.dir/src/main.cpp.o  -o antisocial_test -Wl,-rpath,/usr/local/lib /usr/local/lib/libantisocial.so -lpthread 

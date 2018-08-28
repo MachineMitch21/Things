@@ -1,0 +1,9 @@
+/usr/local/lib/libantisocial.so
+/usr/local/include/Antisocial/Input.h
+/usr/local/include/Antisocial/OpenGL.h
+/usr/local/include/Antisocial/Renderer.h
+/usr/local/include/Antisocial/Shader.h
+/usr/local/include/Antisocial/Texture2D.h
+/usr/local/include/Antisocial/Transform.h
+/usr/local/include/Antisocial/Window.h
+/usr/local/include/Antisocial/vendor/ECS/ECS.h

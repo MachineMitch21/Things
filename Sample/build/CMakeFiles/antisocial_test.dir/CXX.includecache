@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mitch/Documents/AntisocialEngine/Sample/src/main.cpp
+Antisocial/OpenGL.h
+-
+Antisocial/Window.h
+-
+Antisocial/vendor/ECS/ECS.h
+-
+Antisocial/Transform.h
+-
+Antisocial/Input.h
+-
+Antisocial/Renderer.h
+-
+thread
+-
+mutex
+-
+future
+-
+iostream
+-
+stdio.h
+-
+
